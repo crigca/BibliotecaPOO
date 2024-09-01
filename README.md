@@ -13,12 +13,14 @@ Este proyecto es una biblioteca digital orientada a la gestión de libros relaci
 
 El proyecto está organizado de la siguiente manera:
 
-.
-├── README.md                # Archivo que describe el proyecto.
-├── data
-│   └── books.json           # Archivo JSON donde se almacenan los libros.
-├── logic
-│   └── main.ts              # Archivo principal que maneja la lógica del programa.
-└── models
-    ├── Book.ts              # Modelo de datos para un libro.
-    └── Library.ts           # Modelo de datos para la biblioteca.
+📁 **data/**
+- 📄 **books.json**: Archivo JSON donde se almacenan los libros.
+
+📁 **logic/**
+- 📄 **main.ts**: Archivo principal que maneja la lógica del programa.
+
+📁 **models/**
+- 📄 **Book.ts**: Modelo de datos para un libro.
+- 📄 **Library.ts**: Modelo de datos para la biblioteca.
+
+📄 **README.md**: Archivo que describe el proyecto.
