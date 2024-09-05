@@ -25,5 +25,7 @@ El proyecto está organizado de la siguiente manera:
 
 📄 **README.md**: Archivo que describe el proyecto.
 
-**INSTALACION:/**
-Clona este repositorio en tu maquina local usando git clone git@github.com:crigca/BibliotecaPOO.git
+## INSTALACION
+
+Clona este repositorio en tu maquina local usando:
+ git clone git@github.com:crigca/BibliotecaPOO.git
