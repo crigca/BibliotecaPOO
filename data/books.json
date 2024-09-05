@@ -5,16 +5,6 @@
     "isbn": "9780141031484"
   },
   {
-    "title": "Skin in the game",
-    "author": "Nassim Taleb",
-    "isbn": "9780425284629"
-  },
-  {
-    "title": "The Intelligent Investor",
-    "author": "Benjamin Graham",
-    "isbn": "9780060555665"
-  },
-  {
     "title": "Rich Dad Poor Dad",
     "author": "Robert T. Kiyosaki",
     "isbn": "9781612680194"
@@ -25,23 +15,8 @@
     "isbn": "9781501124020"
   },
   {
-    "title": "The Millionaire Next Door",
-    "author": "Thomas J. Stanley",
-    "isbn": "9781589795471"
-  },
-  {
     "title": "Your Money or Your Life",
     "author": "Vicki Robin",
     "isbn": "9780143115762"
-  },
-  {
-    "title": "The Little Book of Common Sense Investing",
-    "author": "John C. Bogle",
-    "isbn": "9781119404507"
-  },
-  {
-    "title": "the Bitcoin standard",
-    "author": "Saifedean Ammous",
-    "isbn": "9789949745722"
   }
 ]

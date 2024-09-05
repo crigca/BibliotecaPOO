@@ -24,3 +24,6 @@ El proyecto está organizado de la siguiente manera:
 - 📄 **Library.ts**: Modelo de datos para la biblioteca.
 
 📄 **README.md**: Archivo que describe el proyecto.
+
+**INSTALACION:/**
+Clona este repositorio en tu maquina local usando git clone git@github.com:crigca/BibliotecaPOO.git
